@@ -170,7 +170,7 @@
       "dark": "#0063a7",
       "darker": "#094671",
       "light": "#78ceff",
-      "lighter": "#dff0ff",
+      "lighter": "#ffffff",
       "main": "#16a7f9"
     },
     "primary": {
@@ -227,7 +227,7 @@
       "contrast": "#fcfdfd",
       "disabled": "#878c98",
       "link": "#499bca",
-      "primary": "#499bca",
+      "primary": "#08090a",
       "secondary": "#41434b"
     },
     "warning": {
