@@ -227,7 +227,7 @@
       "contrast": "#fcfdfd",
       "disabled": "#878c98",
       "link": "#499bca",
-      "primary": "#08090a",
+      "primary": "#499bca",
       "secondary": "#41434b"
     },
     "warning": {
